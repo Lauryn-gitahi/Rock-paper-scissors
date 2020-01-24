@@ -1,2 +1,2 @@
 # Rock-paper-scissors
-A
+A guess game.
